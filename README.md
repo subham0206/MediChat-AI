@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 MediChat AI is an advanced **AI-powered medical chatbot** that assists healthcare professionals in retrieving and summarizing **patient medical history** based on user queries. It leverages **ChromaDB** for vector storage and **GPT-based AI** for intelligent response generation. 
 
+**Running on public URL:** https://9e9d329bdf7b911ef8.gradio.live
+
 ## 🎯 Objectives
 - **Efficient Patient Data Retrieval**: Store and retrieve structured patient medical records.
 - **AI-Powered Chatbot**: Enable conversational interactions to assist in case search.
